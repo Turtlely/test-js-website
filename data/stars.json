@@ -1,0 +1,6 @@
+[
+    { "name": "Polaris", "ra": 37.9545607, "dec": 89.2651090},
+    { "name": "Sirius A", "ra": 101.2871553, "dec": -16.716117, "magnitude": 20},
+    { "name": "Antares", "ra": 247.3519154, "dec": -26.432003, "magnitude": 20}
+]
+
